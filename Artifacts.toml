@@ -1,26 +1,26 @@
 [[bitwarden_cli]]
 arch = "x86_64"
-git-tree-sha1 = "37b6827157a44efe35be9e8dfaf4a0948b1462f9"
+git-tree-sha1 = "5733244572ae3daa9084c461424355284512f029"
 os = "macos"
 
     [[bitwarden_cli.download]]
-    sha256 = "b21c7d7219086d41e8448c53013a56f98d79d6c6307be2f295e9b046fef954f6"
-    url = "https://github.com/JuliaBinaryWrappers/bitwarden_cli_jll.jl/releases/download/bitwarden_cli-v1.17.1+0/bitwarden_cli.v1.17.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "9030df6f17a6ae5ad38389267611f378f54e009d1425a337fe61e6c717846b44"
+    url = "https://github.com/JuliaBinaryWrappers/bitwarden_cli_jll.jl/releases/download/bitwarden_cli-v2025.1.3+0/bitwarden_cli.v2025.1.3.x86_64-apple-darwin.tar.gz"
 [[bitwarden_cli]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca44511d893f125c6bd18453f481972d6a341575"
+git-tree-sha1 = "0fc58d9de8d3c346370e236f34844f7bb3c50792"
 libc = "glibc"
 os = "linux"
 
     [[bitwarden_cli.download]]
-    sha256 = "dff5866251f6b283c6a232baa96eaa4cf9651c8111701ce6b3bf3cee781cf720"
-    url = "https://github.com/JuliaBinaryWrappers/bitwarden_cli_jll.jl/releases/download/bitwarden_cli-v1.17.1+0/bitwarden_cli.v1.17.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2a700a1c97bb8225b402a7e010476ef5fbfb3f49c4678220e513421b1112ff7b"
+    url = "https://github.com/JuliaBinaryWrappers/bitwarden_cli_jll.jl/releases/download/bitwarden_cli-v2025.1.3+0/bitwarden_cli.v2025.1.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[bitwarden_cli]]
 arch = "x86_64"
-git-tree-sha1 = "a9b5ea49d42cbd291b866e295baa7ad47a7c8e8d"
+git-tree-sha1 = "3ec52160b771fae1a7e54e2c5aa37b015bc8715c"
 os = "windows"
 
     [[bitwarden_cli.download]]
-    sha256 = "0880311c0ca35545b11a59beb6174f5eb225f8d2bdcafbfe7448047eb9412903"
-    url = "https://github.com/JuliaBinaryWrappers/bitwarden_cli_jll.jl/releases/download/bitwarden_cli-v1.17.1+0/bitwarden_cli.v1.17.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d124062f9d0d2effcf87062958a6e622df858c0666320bec41f4841cfcf66202"
+    url = "https://github.com/JuliaBinaryWrappers/bitwarden_cli_jll.jl/releases/download/bitwarden_cli-v2025.1.3+0/bitwarden_cli.v2025.1.3.x86_64-w64-mingw32.tar.gz"
